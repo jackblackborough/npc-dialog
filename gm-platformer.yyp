@@ -75,6 +75,7 @@
     {"id":{"name":"Sprite19","path":"sprites/Sprite19/Sprite19.yy",},},
     {"id":{"name":"Sprite23","path":"sprites/Sprite23/Sprite23.yy",},},
     {"id":{"name":"Sprite25","path":"sprites/Sprite25/Sprite25.yy",},},
+    {"id":{"name":"Sprite26","path":"sprites/Sprite26/Sprite26.yy",},},
     {"id":{"name":"spriteEnemy","path":"sprites/spriteEnemy/spriteEnemy.yy",},},
     {"id":{"name":"sSolidMovingPlatform","path":"sprites/sSolidMovingPlatform/sSolidMovingPlatform.yy",},},
     {"id":{"name":"sSolidPlatform","path":"sprites/sSolidPlatform/sSolidPlatform.yy",},},
