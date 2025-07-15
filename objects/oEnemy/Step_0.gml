@@ -23,3 +23,15 @@ if xspeed = 2& close = true
 	yspeed = 2
 	
 }
+if instance_exists(oPlayer)and far = true 
+{
+	instance_create_depth(x, y, 50,oEnemy);
+	
+	timer++;
+	if timer= 1000
+     {
+	    timer = 0;
+		timer++;
+		instance_destroy(oEnemy) 
+	 }
+}
