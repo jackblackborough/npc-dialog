@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sKillPlane",
-    "path":"sprites/sKillPlane/sKillPlane.yy",
+    "name":"Sprite31",
+    "path":"sprites/Sprite31/Sprite31.yy",
   },
   "spriteMaskId":null,
   "visible":true,

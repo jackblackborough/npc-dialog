@@ -485,3 +485,7 @@ if (playerHealth <= 0)
 	sprite_index = playerSpriteDeath;	
 	mask_index = playerSpriteDeath;	
 }
+if keyboard_check_pressed(vk_alt)
+{
+	game_restart()
+}

@@ -38,8 +38,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sEnemyPatrolIdle",
-    "path":"sprites/sEnemyPatrolIdle/sEnemyPatrolIdle.yy",
+    "name":"spriteEnemy",
+    "path":"sprites/spriteEnemy/spriteEnemy.yy",
   },
   "spriteMaskId":null,
   "visible":true,

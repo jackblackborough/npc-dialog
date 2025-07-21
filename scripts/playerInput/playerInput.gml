@@ -36,3 +36,5 @@ function getPlayerInput(_process = true)
 		inputJumpKeyPressed = clamp(inputJumpKeyPressed, 0, 1);	
 	}
 }
+
+

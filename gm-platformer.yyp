@@ -81,6 +81,7 @@
     {"id":{"name":"Sprite28","path":"sprites/Sprite28/Sprite28.yy",},},
     {"id":{"name":"Sprite29","path":"sprites/Sprite29/Sprite29.yy",},},
     {"id":{"name":"Sprite30","path":"sprites/Sprite30/Sprite30.yy",},},
+    {"id":{"name":"Sprite31","path":"sprites/Sprite31/Sprite31.yy",},},
     {"id":{"name":"spriteEnemy","path":"sprites/spriteEnemy/spriteEnemy.yy",},},
     {"id":{"name":"sSolidMovingPlatform","path":"sprites/sSolidMovingPlatform/sSolidMovingPlatform.yy",},},
     {"id":{"name":"sSolidPlatform","path":"sprites/sSolidPlatform/sSolidPlatform.yy",},},
@@ -91,10 +92,10 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"roomStart","path":"rooms/roomStart/roomStart.yy",},},
-    {"roomId":{"name":"roomtitlescreen","path":"rooms/roomtitlescreen/roomtitlescreen.yy",},},
+    {"roomId":{"name":"Room5","path":"rooms/Room5/Room5.yy",},},
     {"roomId":{"name":"room01","path":"rooms/room01/room01.yy",},},
     {"roomId":{"name":"roomTitle","path":"rooms/roomTitle/roomTitle.yy",},},
-    {"roomId":{"name":"Room5","path":"rooms/Room5/Room5.yy",},},
+    {"roomId":{"name":"roomtitlescreen","path":"rooms/roomtitlescreen/roomtitlescreen.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
