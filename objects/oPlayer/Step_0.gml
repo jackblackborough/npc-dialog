@@ -194,13 +194,13 @@ if (
 
 if (
 	inputJumpKeyPressed > 0 && 
-	playerJumps < playerMaxJumps && 
+	playerJumps < global.playerMaxJumps && 
 	!inputDownKey && 
 	playerIsSliding == false && 
 	playerIsDashing == false && 
 	(
 		playerIsJumping == false ||
-		(playerIsJumping == true && playerJumps < playerMaxJumps)
+		(playerIsJumping == true && playerJumps < global.playerMaxJumps)
 	)
 	
 ) 

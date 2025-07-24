@@ -1,0 +1,1 @@
+playerMaxJumps = global.playerMaxJumps;

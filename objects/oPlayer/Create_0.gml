@@ -50,7 +50,7 @@ playerOnGround = false;
 playerIsJumping = false;
 playerJumpForce = -5;
 playerJumps = 0;
-playerMaxJumps = 2;
+global.playerMaxJumps = 2;
 
 // Damage and iFrames
 playerIFramesCounter = 0;

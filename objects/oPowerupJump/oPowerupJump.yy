@@ -1,15 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"oSolidMovingPlatform",
+  "%Name":"oPowerupJump",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oSolidMovingPlatform",
+  "name":"oPowerupJump",
   "overriddenProperties":[],
   "parent":{
-    "name":"Environment",
-    "path":"folders/Environment.yy",
+    "name":"gm-platformer",
+    "path":"gm-platformer.yyp",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite30",
-    "path":"sprites/Sprite30/Sprite30.yy",
+    "name":"sPowerupJump",
+    "path":"sprites/sPowerupJump/sPowerupJump.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"oSolidMovingPlatform",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Object18",
+  "eventList":[],
   "managed":true,
-  "name":"oSolidMovingPlatform",
+  "name":"Object18",
   "overriddenProperties":[],
   "parent":{
-    "name":"Environment",
-    "path":"folders/Environment.yy",
+    "name":"gm-platformer",
+    "path":"gm-platformer.yyp",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"Sprite30",
-    "path":"sprites/Sprite30/Sprite30.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

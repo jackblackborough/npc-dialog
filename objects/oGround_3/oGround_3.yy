@@ -1,17 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"oSolidMovingPlatform",
+  "%Name":"oGround_3",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oSolidMovingPlatform",
+  "name":"oGround_3",
   "overriddenProperties":[],
   "parent":{
     "name":"Environment",
     "path":"folders/Environment.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"oGround",
+    "path":"objects/oGround/oGround.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -25,13 +28,15 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[],
+  "properties":[
+    {"$GMObjectProperty":"v1","%Name":"sprite","filters":[],"listItems":[],"multiselect":false,"name":"sprite","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"sGround","path":"sprites/sGround/sGround.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"sGround","varType":5,},
+  ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite30",
-    "path":"sprites/Sprite30/Sprite30.yy",
+    "name":"Sprite35_1",
+    "path":"sprites/Sprite35_1/Sprite35_1.yy",
   },
   "spriteMaskId":null,
   "visible":true,

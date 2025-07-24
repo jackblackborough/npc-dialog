@@ -1,17 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"oSolidMovingPlatform",
+  "%Name":"oJumpThroughPlatform_1",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oSolidMovingPlatform",
+  "name":"oJumpThroughPlatform_1",
   "overriddenProperties":[],
   "parent":{
     "name":"Environment",
     "path":"folders/Environment.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"oJumpThroughPlatform",
+    "path":"objects/oJumpThroughPlatform/oJumpThroughPlatform.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -25,13 +28,15 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[],
+  "properties":[
+    {"$GMObjectProperty":"v1","%Name":"sprite","filters":[],"listItems":[],"multiselect":false,"name":"sprite","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"sJumpThroughPlatform","path":"sprites/sJumpThroughPlatform/sJumpThroughPlatform.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"sJumpThroughPlatform","varType":5,},
+  ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite30",
-    "path":"sprites/Sprite30/Sprite30.yy",
+    "name":"Sprite29_1",
+    "path":"sprites/Sprite29_1/Sprite29_1.yy",
   },
   "spriteMaskId":null,
   "visible":true,

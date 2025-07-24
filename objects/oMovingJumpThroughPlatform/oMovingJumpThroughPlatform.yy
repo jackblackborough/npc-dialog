@@ -41,8 +41,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sMovingJumpThroughPlatform",
-    "path":"sprites/sMovingJumpThroughPlatform/sMovingJumpThroughPlatform.yy",
+    "name":"Sprite29",
+    "path":"sprites/Sprite29/Sprite29.yy",
   },
   "spriteMaskId":null,
   "visible":true,
