@@ -94,6 +94,8 @@
     {"id":{"name":"Sprite35_1","path":"sprites/Sprite35_1/Sprite35_1.yy",},},
     {"id":{"name":"Sprite35","path":"sprites/Sprite35/Sprite35.yy",},},
     {"id":{"name":"Sprite37","path":"sprites/Sprite37/Sprite37.yy",},},
+    {"id":{"name":"Sprite39","path":"sprites/Sprite39/Sprite39.yy",},},
+    {"id":{"name":"spriteboss","path":"sprites/spriteboss/spriteboss.yy",},},
     {"id":{"name":"spriteEnemy","path":"sprites/spriteEnemy/spriteEnemy.yy",},},
     {"id":{"name":"spriteWall2","path":"sprites/spriteWall2/spriteWall2.yy",},},
     {"id":{"name":"sSolidMovingPlatform","path":"sprites/sSolidMovingPlatform/sSolidMovingPlatform.yy",},},
